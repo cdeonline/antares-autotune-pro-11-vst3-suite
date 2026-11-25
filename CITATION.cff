@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software or configuration suite, please cite it as below."
+type: software
+title: "Antares Autotune Pro 11 VST3 Suite"
+abstract: "Antares Autotune Pro 11 VST3 Suite [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config"
+authors:
+  - alias: "denizmiyazaki"
+    name: "denizmiyazaki"
+version: "1.2.2"
+date-released: "2026-11-25"
+license: MIT
+repository-code: "https://github.com/denizmiyazaki/antares-autotune-pro-11-vst3-suite"
+url: "https://denizmiyazaki.github.io/antares-autotune-pro-11-vst3-suite/"

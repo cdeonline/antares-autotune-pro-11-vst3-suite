@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Antares Auto-Tune Pro 11 VST3 Pitch Correction, Graph Mode & Vocal Preset Suite (2026) Release Feed</title>
+  <link href="https://denizmiyazaki.github.io/antares-autotune-pro-11-vst3-suite/feed.xml" rel="self"/>
+  <link href="https://denizmiyazaki.github.io/antares-autotune-pro-11-vst3-suite/"/>
+  <updated>2026-11-25T00:44:54Z</updated>
+  <id>https://denizmiyazaki.github.io/antares-autotune-pro-11-vst3-suite/</id>
+  <entry>
+    <title>Antares Auto-Tune Pro 11 VST3 Pitch Correction, Graph Mode & Vocal Preset Suite (2026) v1.2.0 Portable Release</title>
+    <link href="https://github.com/denizmiyazaki/antares-autotune-pro-11-vst3-suite/releases/download/v1.2.0/antares-autotune-pro-11-vst3-suite-v1.2.0-win64.zip"/>
+    <id>https://denizmiyazaki.github.io/antares-autotune-pro-11-vst3-suite/#v1.2.0</id>
+    <updated>2026-11-25T00:44:54Z</updated>
+    <summary>Antares Auto-Tune Pro 11 VST3 Pitch Correction, Graph Mode & Vocal Preset Suite (2026) — standalone & DAW vocal chain configuration for Windows 10/11 x64.</summary>
+  </entry>
+</feed>
